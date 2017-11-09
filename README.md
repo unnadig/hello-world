@@ -1,5 +1,4 @@
 # hello-world
 tutorial repository
-ksdhfuishdf iushdf
-siudf
-siudhfisdf
+
+Alltting vi gör är baserat på vetenskapligt FAKTA
